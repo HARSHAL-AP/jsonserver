@@ -119,5 +119,12 @@
         "isactive":true,
         "isarchive":false
       }
+    ],
+    "user":[
+      {
+        "id":"209",
+        "email":"admin@gmail.com",
+        "password":"admin123"
+      }
     ]
   }
